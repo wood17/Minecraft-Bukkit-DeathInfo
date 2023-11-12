@@ -1,0 +1,3 @@
+name: DeathInfo
+main: qiumu.deathinfo.DeathInfo
+version: 0.01
